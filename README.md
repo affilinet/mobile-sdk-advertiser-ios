@@ -1,7 +1,7 @@
 # affilinet Mobile SDK Developer Wiki
 Customer behavior has dramatically changed in recent years. People are busy, are always out and are constantly on their mobile devices. Therefore tracking on mobile devices is a key part of affilinet tracking efforts.
 
-affilinet’s [Mobile SDK for Advertisers](https://github.com/affilinet/mobile-sdk-advertiser) is a feature reach mobile SDK which offers you the full functional package to be successful in your mobile efforts.
+affilinet’s [Mobile SDK for Advertisers](http://affilinet.github.io/mobile-sdk-advertiser/documentation/) is a feature reach mobile SDK which offers you the full functional package to be successful in your mobile efforts.
 
 The affilinet Advertiser Mobile SDK provides the following functionality:
 * Easy integration for iOS and Android based Apps
